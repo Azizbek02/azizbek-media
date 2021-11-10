@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: whitesmoke;
+}
+.ikonka{
+    margin-left: 41vh;
+    padding: 11px;
+}
+.btn btn-outline-success{
+    color: rgb(255, 98, 182);
